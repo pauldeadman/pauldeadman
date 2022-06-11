@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauldeadman
-- Just passed Microosft 365 Certification for Modern Desktop Administrator
+- Just passed Micrsoft 365 Certification for Modern Desktop Administrator
 - And am now working on MS-500 Certification.
 
 
